@@ -1,0 +1,18 @@
+{
+  "id": "mycustommod",
+  "name": "Synergia",
+  "author": [
+    "TheMechanicalDJ",
+    "Potatotays & Marcourse"
+  ],
+  "description": "This mod adds 50 new Jokers, new Tarot and Spectral cards, and 2 new consumable types to Balatro. This Mod also adds new Seals, Enhancements, Editions, and plenty of other stuff to the game. Credit to Toby Fox, Scott Cawthon, and Justin Oval.",
+  "prefix": "mycustom",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "FFFFFF",
+  "badge_text_colour": "FF62E2",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
